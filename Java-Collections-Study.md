@@ -3,7 +3,7 @@
 Collections or API's Collections of Java, area a conjunction of classes and interfaces that organize data (like filter them, added, deleted and several interactions with data) with List, Map, or connected lists. Java Collections emerged because it was hard to work with Arrays. 
 
 Here are the types of Collections:
-![Alt text](img1.png)
+![img1](https://github.com/LuanTMoura/Study-Java-Collections/assets/106880830/e648ca98-d01e-4baa-9f24-731d7c3d7565)
 
 # Java List
 Java `List` is the most usable interface, that offers interface list to manage every object that will be organized and also, there are methods to help add, remove or consultation etc. Example:
